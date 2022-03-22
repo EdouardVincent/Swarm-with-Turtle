@@ -5,8 +5,6 @@ from math import *
 
 i=0
 
-#création de tortues :
-
 tortue1 = Turtle()
 tortue2 = Turtle()
 tortue3 = Turtle()
